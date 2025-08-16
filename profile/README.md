@@ -1,12 +1,7 @@
-## Hi there 👋
+# Hello from Team Emissare!
+Our mission is to make drones accessible through natural language interfaces for critical missions worldwide.
 
-<!--
+## Emissare Home
+Visit our homepage on the internet at [Emissare.ai](https://www.emissare.ai).
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Here you can try out our Mission Control demo [talktoadrone](https://talktoadrone.com/) that allows you to complete missions using an Emissare drone by talking to it in natural language.
